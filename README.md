@@ -2,11 +2,9 @@
 
 ###
 
-<div align="center">
 ![zzampax's Stats](https://github-readme-stats.vercel.app/api?username=zzampax&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![zzampax's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzampax&theme=dark&hide_border=false)
 ![zzampax's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzampax&theme=dark&show_icons=true&hide_border=false&layout=compact)
-</div>
 
 ###
 
